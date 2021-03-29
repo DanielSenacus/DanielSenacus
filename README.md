@@ -26,24 +26,24 @@
 
 <p align="center">   
  
-  <code><img title="AngularJS" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/angularjs.png"></code> 
-  <code><img title="Python" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/python-original.svg"></code>
-  <code><img title="Django" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/django.png"></code> 
-  <code><img title="HTML5" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/sass.svg"></code>
-  <code><img title="Git" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/git-original.svg"></code> 
-  <code><img title="Visual Studio Code" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/visualstudio.png"></code>
-  <code><img title="JQuery" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/jquery-original.svg"></code>
-  <code><img title="JSON" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/json.svg"></code>
-  <code><img title="Android" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/android.svg"></code>
-  <code><img title="GitHub" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/github.svg"></code>
-  <code><img title="MySQL" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/mysql.svg"></code>
-  <code><img title="npm" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/npm.svg"></code>
-  <code><img title="PHP" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/php.svg"></code>
-  <code><img title="React" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/react-original.svg"></code>
-  <code><img title="Javascript" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/javascript.svg"></code>  
+  <code><img title="AngularJS" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/angularjs.png"></code> 
+  <code><img title="Python" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/python-original.svg"></code>
+  <code><img title="Django" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/django.png"></code> 
+  <code><img title="HTML5" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/html5.svg"></code>
+  <code><img title="CSS" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/css.svg"></code>
+  <code><img title="SASS" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/sass.svg"></code>
+  <code><img title="Git" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/git-original.svg"></code> 
+  <code><img title="Visual Studio Code" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/visualstudio.png"></code>
+  <code><img title="JQuery" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/jquery-original.svg"></code>
+  <code><img title="JSON" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/json.svg"></code>
+  <code><img title="Android" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/android.svg"></code>
+  <code><img title="GitHub" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/github.svg"></code>
+  <code><img title="MySQL" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/mysql.svg"></code>
+  <code><img title="npm" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/npm.svg"></code>
+  <code><img title="PHP" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/php.svg"></code>
+  <code><img title="React" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/react-original.svg"></code>
+  <code><img title="Javascript" height="33" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/javascript.svg"></code>  
  
 </p>
 
