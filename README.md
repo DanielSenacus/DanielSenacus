@@ -24,9 +24,8 @@
 
 <hr>
 
-<p align="center">
-   
-  <code><img title="React" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/react-original.svg"></code>  
+<p align="center">   
+ 
   <code><img title="AngularJS" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/angularjs.png"></code> 
   <code><img title="Python" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/python-original.svg"></code>
   <code><img title="Django" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/django.png"></code>
@@ -44,6 +43,7 @@
   <code><img title="MySQL" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/mysql.svg"></code>
   <code><img title="npm" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/npm.svg"></code>
   <code><img title="PHP" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/php.svg"></code>
+  <code><img title="React" height="40" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/react-original.svg"></code>  
  
 </p>
 
