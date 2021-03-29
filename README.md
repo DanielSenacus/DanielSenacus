@@ -21,7 +21,10 @@
 
 ### 🛠️ Skills  and Tools:
 
-<p>
+
+<hr>
+
+<p align="center">
 
   <code><img title="Python" height="25" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/django.png"></code>
@@ -43,6 +46,9 @@
   <code><img title="PHP" height="25" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/php.svg"></code>
  
 </p>
+
+
+<hr>
 
 
 [instagram]: https://www.instagram.com/danielsenacus/
