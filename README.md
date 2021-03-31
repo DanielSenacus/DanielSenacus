@@ -44,7 +44,7 @@
   <img title="PHP" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/php.svg">
   <img title="React" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/react-original.svg">
   <img title="Javascript" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/javascript.svg">
-  <img title="node.js" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/node.png"><
+  <img title="node.js" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/node.png">
   <img title="mongo" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/mongo.png">
   <img title="typescript" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/typescript.png">
   <img title="bash" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/bash.jpg">
