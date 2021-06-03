@@ -34,9 +34,7 @@
   <img title="SASS" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/sass.svg">
   <img title="Git" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/git-original.svg">
   <img title="Visual Studio Code" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/vscode.png">
-  <img title="Microsoft Visual Studio" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/visualstudio.png">
   <img title="JQuery" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/jquery-original.svg">
-  <img title="JSON" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/json.svg">
   <img title="Android" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/android.svg">
   <img title="GitHub" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/github.svg">
   <img title="MySQL" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/mysql.svg">
