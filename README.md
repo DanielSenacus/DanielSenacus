@@ -26,7 +26,7 @@
 
 <p align="center"> 
  
-  <img title="Angular" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/angular.png">
+<!--   <img title="Angular" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/angular.png"> -->
   <img title="Python" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/python-original.svg">
   <img title="Django" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/django.png">
   <img title="HTML5" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/html5.svg">
