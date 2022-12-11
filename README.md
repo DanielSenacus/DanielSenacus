@@ -1,12 +1,12 @@
 ### Hello there 👋, I'm Daniel, But you guys can call me: Senacus 😉
 
 <p align="center">
-  <h3 color="blue"> I'm 21 years old Self-taught Front-End developer, but currently learning Back-End and Data Science.</h3>
+  <h3 color="blue"> I'm 22 years old Self-taught Front-End developer, but currently learning Back-End and Data Science.</h3>
 </p>
 
 - 📚 I’m a learning eater
 - 🤝 I’m looking to learn and collaborate with other developers
-- 🥅 2022 Goals: Create my own start-up (currently working on it)
+
 
 
 
