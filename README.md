@@ -1,10 +1,10 @@
 ### Hello there 👋, I'm Daniel, But you guys can call me: Senacus 😉
 
 <p align="center">
-  <h3 color="blue"> I'm 22 years old Self-taught Front-End developer, but currently learning Back-End and Data Science.</h3>
+  <h3 color="blue"> I'm 22 years full stack developer.</h3>
 </p>
 
-- 📚 I’m a learning eater
+- 📚 I’m a constant learner.
 - 🤝 I’m looking to learn and collaborate with other developers
 
 
@@ -35,12 +35,15 @@
   <img title="Git" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/git-original.svg">
   <img title="Visual Studio Code" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/vscode.png">
   <img title="JQuery" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/jquery-original.svg">
-  <img title="Android" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/android.svg">
+<!--   <img title="Android" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/android.svg"> -->
   <img title="GitHub" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/github.svg">
   <img title="MySQL" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/mysql.svg">
   <img title="npm" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/npm.svg">
   <img title="PHP" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/php.svg">
+  <img title="PHP" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/dotnetcore.svg">
+  <img title="PHP" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/cSharp.svg">  
   <img title="React" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/react-original.svg">
+  <img title="Redux" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/redux.svg">
   <img title="Javascript" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/javascript.svg">
   <img title="node.js" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/node.png">
   <img title="mongo" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/mongo.png">
