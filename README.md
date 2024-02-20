@@ -1,7 +1,7 @@
-### Hello there 👋, I'm Daniel, But you guys can call me: Senacus 😉
+### Hello there 👋, I'm Daniel, But you can call me: Senacus 😉
 
 <p align="center">
-  <h3 color="blue"> I'm 22 years full stack developer.</h3>
+  <h3 color="blue"> I'm 23 years full stack developer.</h3>
 </p>
 
 - 📚 I’m a constant learner.
@@ -57,6 +57,6 @@
 <hr>
 
 
-[instagram]: https://www.instagram.com/danielsenacus/
-[linkedin]: https://www.linkedin.com/in/daniel-senacus-30722320a/
+[instagram]: https://www.instagram.com/im_daniels69/
+[linkedin]: https://www.linkedin.com/in/daniel-senacus/
 
