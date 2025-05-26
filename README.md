@@ -1,62 +1,57 @@
-### Hello there 👋, I'm Daniel, But you can call me: Senacus 😉
+# 𝙷𝚎𝚕𝚕𝚘! I'm **Daniel** 👋
+
+### 👨‍💻 Full-Stack Developer | Creative & detail-oriented | 4+ years experience
 
 <p align="center">
-  <h3 color="blue"> I'm 23 years full stack developer.</h3>
+  <strong>I'm a passionate Developer with 4+ years of experience building responsive websites and custom solutions. My strength lies in combining user-focused design with strong technical know-how across multiple stacks.</strong>
 </p>
 
-- 📚 I’m a constant learner.
-- 🤝 I’m looking to learn and collaborate with other developers
+---
 
+## 🚀 About Me
 
+- 🌱 I’m a committed lifelong learner, always exploring new technologies and best practices.
+- 🤝 I love collaborating with other developers, sharing knowledge, and contributing to open source.
+- 🧠 Currently sharpening my skills in cloud architecture and AI-powered applications.
 
+---
 
-### 🤙 Connect with me:
+## 🌐 Connect with Me
 
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/daniel-senacus/)  
+[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/im_daniels69/)
 
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🛠️ Tech Stack & Tools
 
-<br />
+<p align="center">
 
-### 🛠️ Skills  and Tools:
-
-
-<hr>
-
-<p align="center"> 
- 
-<!--   <img title="Angular" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/angular.png"> -->
   <img title="Python" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/python-original.svg">
   <img title="Django" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/django.png">
-  <img title="HTML5" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/html5.svg">
-  <img title="CSS" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/css.svg">
-  <img title="SASS" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/sass.svg">
-  <img title="Git" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/git-original.svg">
-  <img title="Visual Studio Code" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/vscode.png">
-  <img title="JQuery" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/jquery-original.svg">
-<!--   <img title="Android" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/android.svg"> -->
-  <img title="GitHub" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/github.svg">
-  <img title="MySQL" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/mysql.svg">
-  <img title="npm" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/npm.svg">
-  <img title="PHP" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/php.svg">
-  <img title="PHP" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/dotnetcore.svg">
-  <img title="PHP" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/cSharp.svg">  
+  <img title="JavaScript" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/javascript.svg">
+  <img title="TypeScript" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/typescript.png">
   <img title="React" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/react-original.svg">
   <img title="Redux" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/redux.svg">
-  <img title="Javascript" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/javascript.svg">
-  <img title="node.js" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/node.png">
-  <img title="mongo" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/mongo.png">
-  <img title="typescript" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/typescript.png">
-  <img title="bash" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/bash.jpg">
+  <img title="Node.js" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/node.png">
+  <img title="MongoDB" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/mongo.png">
+  <img title="MySQL" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/mysql.svg">
+  <img title="PHP" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/php.svg">
+  <img title=".NET Core" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/dotnetcore.svg">
+  <img title="C#" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/cSharp.svg">  
+  <img title="HTML5" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/html5.svg">
+  <img title="CSS3" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/css.svg">
+  <img title="SASS" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/sass.svg">
+  <img title="jQuery" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/jquery-original.svg">
+  <img title="Git" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/git-original.svg">
+  <img title="GitHub" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/github.svg">
+  <img title="npm" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/npm.svg">
+  <img title="VS Code" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/vscode.png">
+  <img title="Bash" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/bash.jpg">
 
- 
 </p>
 
+---
 
-<hr>
-
-
-[instagram]: https://www.instagram.com/im_daniels69/
-[linkedin]: https://www.linkedin.com/in/daniel-senacus/
+📫 Feel free to connect or reach out — let’s build something awesome together in 2025 and beyond!
 
