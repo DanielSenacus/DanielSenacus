@@ -16,11 +16,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/daniel-senacus/)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/im_daniels69/)
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -53,5 +48,4 @@
 
 ---
 
-📫 Feel free to connect or reach out — let’s build something awesome together in 2025 and beyond!
 
