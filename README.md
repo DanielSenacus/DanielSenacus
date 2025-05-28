@@ -10,9 +10,11 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m a committed lifelong learner, always exploring new technologies and best practices.
-- 🤝 I love collaborating with other developers, sharing knowledge, and contributing to open source.
-- 🧠 Currently sharpening my skills in cloud architecture and AI-powered applications.
+-🌱 Always learning and staying up to date with modern technologies and industry standards.
+
+-🤝 Enjoy working with other developers and building real-world solutions together.
+
+-🧠 Currently focused on leveling up in cloud architecture and AI-driven applications.
 
 ---
 
