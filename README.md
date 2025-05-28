@@ -37,7 +37,9 @@
   <img title="Git" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/git-original.svg">
   <img title="GitHub" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/github.svg">
   <img title="npm" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/npm.svg">
-  <img title="Bash" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/bash.jpg">   
+  <img title="Bash" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/bash.jpg">
+  <img title="Bash" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/firebase.png">
+  
 
 </p>
 
