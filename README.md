@@ -41,6 +41,7 @@
   <img title="npm" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/npm.svg">
   <img title="Bash" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/main/images/bash.jpg">
   <img title="Bash" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/firebase.png">
+  <img title="Docker" height="30" src="https://github.com/DanielSenacus/DanielSenacus/blob/master/images/7069d1fe519bbf36c5e6517cb07d0f42.png">
   
 
 </p>
